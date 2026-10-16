@@ -2,7 +2,7 @@
 title: 'About me'
 ---
 
-My name is "yuurzi", and I live on Earth, so don't ask for my real name or location.
+My name is "yuurzi" (read as "yuurei", or "幽霊"), and I live on Earth, so don't ask for my real name or location.
 
 I'm a big tech skeptic, but also a tech enthusiast, a music lover, and an otaku.
 
