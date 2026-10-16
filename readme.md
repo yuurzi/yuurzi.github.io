@@ -1,4 +1,4 @@
-# stdrice's Personal Site
+# yuurzi's Personal Site
 
 # Things I use
 - [Hugo](https://gohugo.io/): Static site generator
@@ -10,13 +10,13 @@
 - Install `Hugo`, `git`
 - Clone this repo
 ```
-git clone https://github.com/stdrice/stdrice.github.io
-cd stdrice.github.io
+git clone https://github.com/yuurzi/yuurzi.github.io
+cd yuurzi.github.io
 git submodule update --init --recursive
 ```
 - Run locally
 ```
-cd stdrice.github.io
+cd yuurzi.github.io
 hugo server
 ```
 - Create new post

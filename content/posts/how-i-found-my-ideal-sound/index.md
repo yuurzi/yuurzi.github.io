@@ -80,4 +80,4 @@ To me, the Daybreak has a slight V-shaped character. It has elevated bass and tr
 ![13](13.png)
 
 # Conclusion
-You can find my target curves here: [github/stdrice/audio](https://github.com/stdrice/audio)
+You can find my target curves here: [github/yuurzi/audio](https://github.com/yuurzi/audio)

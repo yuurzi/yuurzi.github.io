@@ -3,8 +3,8 @@ title: 'Projects'
 ---
 
 ## On Hiatus
-- [Dell XPS 9500 CometLake OpenCore EFI](https://github.com/stdrice/dell-xps-9500-cometlake-opencore-efi)
-- [Dell Latitude 7290 KabyLake OpenCore EFI](https://github.com/stdrice/dell-latitude-7290-kabylake-opencore-efi)
+- [Dell XPS 9500 CometLake OpenCore EFI](https://github.com/yuurzi/dell-xps-9500-cometlake-opencore-efi)
+- [Dell Latitude 7290 KabyLake OpenCore EFI](https://github.com/yuurzi/dell-latitude-7290-kabylake-opencore-efi)
 - [SucklessWindows](https://github.com/SucklessWindows/SucklessWindows): An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [FolodyLinux](https://github.com/FolodyLinux/FolodyLinux): A simple, semi-rolling Arch-based Linux distro made by Folody Community.
-- [pengufox](https://github.com/stdrice/pengufox): Firefox with better UI, better privacy and security.
+- [pengufox](https://github.com/yuurzi/pengufox): Firefox with better UI, better privacy and security.

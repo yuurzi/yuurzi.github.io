@@ -387,4 +387,4 @@ My personal dotfiles repository contains:
 - Theme and font choices
 - Useful scripts and keybindings
 
-You can find them here: [stdrice/dotfiles](https://github.com/stdrice/dotfiles)
+You can find them here: [yuurzi/dotfiles](https://github.com/yuurzi/dotfiles)

@@ -123,5 +123,5 @@ For recording and streaming, I use [OBS Studio](https://obsproject.com), which w
 - etc
 
 # Etc.
-Everthing else can be found in my [dotfiles repo](https://github.com/stdrice/dotfiles).
+Everthing else can be found in my [dotfiles repo](https://github.com/yuurzi/dotfiles).
 ![a](a.jpeg)

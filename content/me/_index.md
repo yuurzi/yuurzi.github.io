@@ -2,7 +2,7 @@
 title: 'About me'
 ---
 
-My name is "stdrice", and I live on Earth, so don't ask for my real name or location.
+My name is "yuurzi", and I live on Earth, so don't ask for my real name or location.
 
 I'm a big tech skeptic, but also a tech enthusiast, a music lover, and an otaku.
 
@@ -17,8 +17,8 @@ For my personal preferences and opinions: I dislike mainstream social media and 
 **I'm not a person you should blindly trust, and you probably shouldn't trust anyone on the Internet.**
 
 # Contact
-My email is [stdrice (at) disroot.org](mailto:stdrice@disroot.org), and [you should use GPG whenever possible](/stdrice_public.asc)
+My email is [yuurzi (at) disroot.org](mailto:yuurzi@disroot.org), and [you should use GPG whenever possible](/yuurzi_public.asc)
 
 I'm also available on other platforms:
-- [GitHub](https://github.com/stdrice)
-- [Anilist](https://anilist.co/user/stdrice)
+- [GitHub](https://github.com/yuurzi)
+- [Anilist](https://anilist.co/user/yuurzi)
