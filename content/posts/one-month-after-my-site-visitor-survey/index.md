@@ -8,6 +8,9 @@ cover:
     image: "ok.jpg"
     responsiveImage: true
 ---
+
+**Update 2026 Sep 4**: Although I no longer use GNOME as my daily driver for various reasons, I still recommend it, and everything I said in this article still stands.
+
 About a month ago, I added a small survey to my website to understand who visits my site, how they found it, and whether my content was useful.
 ![a](a.png)
 
